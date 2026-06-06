@@ -1,0 +1,1 @@
+AutoHotKey for voice PTT into AI chat
